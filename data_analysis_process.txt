@@ -1,0 +1,18 @@
+Data Analysis Process
+
+Ask:
+
+The question I am being asked to solve is: How do annual members and casual riders use Cyclist bikes differently? 
+
+The problem I am trying to solve ius that annual members are more profitable that casual riders. Moreno believes that we can convert casual riders into members as they already choose Cyclistic for their mobility needs. In order to get a clear picture of the customer base, I am assigned to figuring out how annual members and casual riders differ in their use of Cyclistic bikes.
+
+The insights I am able to deliver can help answer the next question Moreno has: Why would casual riders buy Cyclistic annual memberships? Which in turn can help to answer the question of how Cyclistic can use digital media to influence casual riders to become membets. The insights gained from answering how annual members and casual riders use Cyclistic bikes differently is foundational to these other two questions. 
+
+The key stakeholders
+- Lily Moreno
+- Cyclistic marketing analytics team
+- Cyclistic executive team
+
+Prepare:
+
+Data is provided by Motivation International Inc. and covers 12-months of rider-user data from May 2022-April 2023
